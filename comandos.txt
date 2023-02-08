@@ -1,0 +1,11 @@
+git checkout
+git status
+•	git reset (numero de la versión) -hard
+•	git Branch
+git add
+git log
+•	git show
+•	 git commit -m
+•	git init
+•	git config --global user.name"juanmelo"  
+•	git config --global user.name"juanmelo" 
