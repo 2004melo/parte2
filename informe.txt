@@ -1,0 +1,23 @@
+Seguimiento y explicación de la guía de GitHub
+En los primeros comandos tenemos a
+quienes son los que permiten configurar el nombre y el email 
+•	git config --global user.name"juanmelo"  
+•	git config --global user.name"juanmelo" 
+Después tenemos que entrar a la dirección donde se va hacer el trabajo ejemplo: C:\Users\juand\Documents\proyecto>
+Después creamos el repositorio con el comando 
+•	git init 
+ el siguiente comando es para agregar contenido al trabajo 
+•	git add
+después sigue el que guarda la versión del repositorio poniendo su mensaje
+•	 git commit -m cada actualización se usan los dos comando el git add para agregar contenido y el git commit -m para nombrar ese contenido y quede guardado en el repositorio 
+para mirar los contenidos de los repositorios podemos poner versiones anteriores con el
+•	git log
+•	git show vemos el contenido de los mensajes y los cambios realizados para volver a la versión anterior ponemos git log para visualizar las versiones 
+para volver a una versión se usa 
+•	git reset (numero de la versión) -hard
+ después se pone el git checkout para pasar de rama y el 
+•	git Branch que es para crear una rama nueva 
+
+para verificar la rama en la que estamos 
+•	git status
+•	y con el git checkout pasamos a la rama que queramos
